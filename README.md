@@ -1,0 +1,6 @@
+- written in golang
+- export to csv
+- export to json
+- batch mode, write to memory meanwhile in background write to disk
+- maxprocs
+- max allocated memory
